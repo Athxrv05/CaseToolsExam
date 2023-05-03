@@ -5,6 +5,10 @@ public class Car_112 {
 	{
 		this.speed=speed;
 	}
+	int get_speed()
+	{
+		return speed;
+	}
 
 	public static void main(String[] args) {
 		
